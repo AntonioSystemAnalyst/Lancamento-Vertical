@@ -1,0 +1,7 @@
+C:\Users\Orphew\Desktop\Lançamento Vertical\LV\Lançamento Vertical\bin\Debug\Lançamento Vertical.exe.config
+C:\Users\Orphew\Desktop\Lançamento Vertical\LV\Lançamento Vertical\bin\Debug\Lançamento Vertical.exe
+C:\Users\Orphew\Desktop\Lançamento Vertical\LV\Lançamento Vertical\bin\Debug\Lançamento Vertical.pdb
+C:\Users\Orphew\Desktop\Lançamento Vertical\LV\Lançamento Vertical\obj\Debug\Lançamento Vertical.csproj.AssemblyReference.cache
+C:\Users\Orphew\Desktop\Lançamento Vertical\LV\Lançamento Vertical\obj\Debug\Lançamento Vertical.csproj.CoreCompileInputs.cache
+C:\Users\Orphew\Desktop\Lançamento Vertical\LV\Lançamento Vertical\obj\Debug\Lançamento Vertical.exe
+C:\Users\Orphew\Desktop\Lançamento Vertical\LV\Lançamento Vertical\obj\Debug\Lançamento Vertical.pdb
